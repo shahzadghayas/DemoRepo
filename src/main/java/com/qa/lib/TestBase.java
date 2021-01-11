@@ -6,5 +6,9 @@ public class TestBase {
 	{
 		System.out.println("Test Method");
 	}
+	public void testtest()
+	{
+		System.out.println("Test Method");
+	}
 	
 }
